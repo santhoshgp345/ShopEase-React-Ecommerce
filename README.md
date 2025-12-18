@@ -54,6 +54,7 @@ src/
  ├── App.js
  └── index.js
 
+
 🚀 Getting Started
 Clone the repository
 git clone https://github.com/your-username/shopease-react-ecommerce.git
