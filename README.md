@@ -44,15 +44,19 @@ Organized assets and components
 
 Updated project documentation
 
-📁 Project Structure
+## 📁 Project Structure
+
+```
 public/
 src/
- ├── Assets/
- ├── Components/
- ├── Pages/
- ├── Features/
- ├── App.js
- └── index.js
+├── Assets/
+├── Components/
+├── Pages/
+├── Features/
+├── App.js
+└── index.js
+```
+
 
 
 🚀 Getting Started
